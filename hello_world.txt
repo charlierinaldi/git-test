@@ -1,0 +1,3 @@
+I'm gonna put some text here just to show that I know how too
+
+Also I needed to install vim to insert with vi, feature was broken without
